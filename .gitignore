@@ -3,5 +3,5 @@ Thumbs.DB
 node_modules/
 .idea/
 .vscode/
-bin/index.js
+build/index.js
 typings/

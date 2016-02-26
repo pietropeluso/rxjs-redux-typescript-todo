@@ -1,0 +1,23 @@
+#list {
+  margin-top: 50px;
+}
+
+#list li {
+  padding: 8px 10px;
+  border-radius: 3px;
+  margin-bottom: 5px;
+  background-color: #E0E0E0;
+}
+
+#list li.list-item-completed,
+#list li.list-item-completed a {
+  color: #fff;
+}
+
+#list li.list-item-completed {
+  background-color: green;
+}
+
+#list li a {
+  color: #000;
+}
